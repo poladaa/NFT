@@ -1,0 +1,40 @@
+@media (max-width: 69em) {
+  .sup {
+    font-size: 3rem;
+  }
+}
+
+@media (max-width: 56em) {
+  .step-img {
+    width: 85%;
+  }
+}
+
+@media (max-width: 51em) {
+  .section-travel {
+    grid-template-columns: 1fr;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .button1 {
+    align-self: center;
+  }
+
+  .step-img {
+    width: 100%;
+  }
+
+  .section-travel3 {
+    grid-template-columns: 1fr;
+  }
+  
+
+  .section-travel3 {
+    grid-template-columns: 1fr;
+  }
+
+  .logos img {
+    height: 2.4rem;
+  }
+}
